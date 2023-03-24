@@ -17,7 +17,7 @@ df = df[
 
 
 def draw_line_plot():
-    # Draw line plot
+    fig, ax = plt.subplots(figsize=(10, 5))
 
 
 
